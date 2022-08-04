@@ -7952,7 +7952,7 @@ There are `1000 users`  in Jordan. You need at least `3 followers` to be on this
 			Khaled Al-Ansari
 		</td>
 		<td>@amzn </td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/KhaledElAnsari">KhaledElAnsari</a></td>
 		<td>Amman/Jordan</td>
 		<td>5</td>
 	</tr>
